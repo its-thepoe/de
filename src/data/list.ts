@@ -85,6 +85,29 @@ const designEngineers: DesignEngineers = [
     website: 'https://brijr.dev/',
     x: 'https://x.com/bridgertower',
   },
+  {
+    github: 'https://github.com/danilowoz',
+    name: 'Danilo Woznica',
+    website: 'https://danilowoz.com/',
+    x: 'https://x.com/danilowoz',
+  },
+  {
+    github: 'https://github.com/pacocoursey',
+    name: 'Paco Coursey',
+    website: 'https://paco.me/',
+    x: 'https://x.com/pacocoursey',
+  },
+  {
+    github: 'https://github.com/emilkowalski',
+    name: 'Emil Kowalski',
+    website: 'https://emilkowal.ski/',
+    x: 'https://x.com/emilkowalski_',
+  },
+  {
+    github: 'https://github.com/emilwidlund',
+    name: 'Emil Widlund',
+    x: 'https://x.com/emilwidlund',
+  },
 ];
 
 export const list = designEngineers
