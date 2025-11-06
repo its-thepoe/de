@@ -1,4 +1,4 @@
 <div align="center">
-  <h2>Minimum</h2>
-  <p>Minimal websites directory.</p>
+  <h2>D.E.</h2>
+  <p>Curated list of Design Engineers.</p>
 </div>
