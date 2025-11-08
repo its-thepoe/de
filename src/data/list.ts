@@ -138,6 +138,12 @@ const designEngineers: DesignEngineers = [
     website: 'https://www.mahlke.design/',
     x: 'https://x.com/aaronmahlke',
   },
+  {
+    github: 'https://github.com/legions-developer',
+    name: 'Gurbinder',
+    website: 'https://legions.dev/',
+    x: 'https://x.com/legionsdev',
+  },
 ];
 
 export const list = designEngineers
