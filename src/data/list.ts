@@ -261,10 +261,10 @@ const designEngineers: DesignEngineers = [
     x: 'https://x.com/sorenblank',
   },
   {
-    github: 'https://github.com/abjt14',
-    name: 'Abhijeet Singh',
-    website: 'https://www.abjt.dev/',
-    x: 'https://x.com/abjt14',
+    github: 'https://github.com/hugosaintemarie',
+    name: 'Hugo',
+    website: 'https://hugosaintemarie.com/',
+    x: 'https://x.com/hugosaintemarie',
   },
   {
     github: 'https://github.com/abjt14',
@@ -282,12 +282,6 @@ const designEngineers: DesignEngineers = [
     name: 'Lochie Axon',
     website: 'https://lochieaxon.com/',
     x: 'https://x.com/lochieaxon',
-  },
-  {
-    github: 'https://github.com/pugson',
-    name: 'pugson',
-    website: 'https://wojtek.im/',
-    x: 'https://x.com/pugson',
   },
   {
     github: 'https://github.com/Aeastr',
