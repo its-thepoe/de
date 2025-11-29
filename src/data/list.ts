@@ -145,9 +145,40 @@ const designEngineers: DesignEngineers = [
     x: 'https://x.com/legionsdev',
   },
   {
+    github: 'https://github.com/jmsbaduor',
     name: 'James Baduor',
     website: 'https://jamesbaduor.com/',
     x: 'https://x.com/jmsbaduor',
+  },
+  {
+    github: 'https://github.com/mbaytas',
+    name: 'M.A. Baytaş',
+    website: 'https://baytas.net/',
+    x: 'https://x.com/doctorbaytas',
+  },
+  {
+    github: 'https://github.com/shadcn',
+    name: 'shadcn',
+    website: 'https://shadcn.com',
+    x: 'https://x.com/shadcn',
+  },
+  {
+    github: 'https://github.com/evilrabbit',
+    name: 'Evil Rabbit',
+    website: 'https://evilrabbit.com',
+    x: 'https://x.com/evilrabbit_',
+  },
+  {
+    github: 'https://github.com/ncdai',
+    name: 'Chánh Đại',
+    website: 'https://chanhdai.com/',
+    x: 'https://x.com/iamncdai',
+  },
+  {
+    github: 'https://github.com/rivertwilight',
+    name: 'Rene Wang',
+    website: 'https://rene.wang/en-US',
+    x: 'https://x.com/rea1DonandTrump',
   },
 ];
 
