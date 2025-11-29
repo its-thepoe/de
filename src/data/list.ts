@@ -299,6 +299,18 @@ const designEngineers: DesignEngineers = [
     website: 'https://www.raphaelsalaja.com/',
     x: 'https://x.com/raphaelsalaja',
   },
+  {
+    github: 'https://github.com/dave-hawkins',
+    name: 'Dave Hawkins',
+    website: 'https://davehawkins.co/',
+    x: 'https://x.com/davehawkins',
+  },
+  {
+    github: 'https://github.com/danbillson',
+    name: 'Dan Billson',
+    website: 'https://dnbls.com/',
+    x: 'https://x.com/dbillson',
+  },
 ];
 
 export const list = designEngineers
