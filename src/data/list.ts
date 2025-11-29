@@ -311,6 +311,12 @@ const designEngineers: DesignEngineers = [
     website: 'https://dnbls.com/',
     x: 'https://x.com/dbillson',
   },
+  {
+    github: 'https://github.com/moumen-soliman',
+    name: 'Moumen Soliman',
+    website: 'https://moumen.dev/',
+    x: 'https://x.com/moumensoliman',
+  },
 ];
 
 export const list = designEngineers
