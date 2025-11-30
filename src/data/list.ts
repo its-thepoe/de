@@ -328,6 +328,14 @@ const designEngineers: DesignEngineers = [
     website: 'https://raminrzdh.com/',
     x: 'https://x.com/raminrzdh',
   },
+  {
+    definition:
+      'A Design Engineer is a person who blurs the lines between the traditional design and product engineer roles. They understand the constraints without letting it limit their creativity, it does quite the opposite. They create tangible and functional digital experiences that delight both in look and feel.',
+    github: 'https://github.com/its-thepoe',
+    name: 'Oladipupo Ayoola',
+    website: 'https://thepoe.xyz/',
+    x: 'https://x.com/its_thepoe/',
+  },
 ];
 
 export const list = designEngineers
