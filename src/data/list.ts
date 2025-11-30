@@ -172,6 +172,8 @@ const designEngineers: DesignEngineers = [
     x: 'https://x.com/evilrabbit_',
   },
   {
+    definition:
+      'A Design Engineer blends design thinking with technical skills to deliver complete product experiences. They move beyond owning a single stage of the process and take responsibility for the final result. A Design Engineer understands the problem, designs the solution, builds it, and refines the experience so the product is both visually compelling and technically solid.',
     github: 'https://github.com/ncdai',
     name: 'Chánh Đại',
     website: 'https://chanhdai.com/',
